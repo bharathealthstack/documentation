@@ -38,7 +38,7 @@ paths:
               covid_consult_search_request:
                 $ref: '#/components/examples/covid_consult_search_request'
               scheduled_consult_search_request:
-                $ref: '#/components/examples/scheduled_consult_search_request
+                $ref: '#/components/examples/scheduled_consult_search_request'
       responses:
         '200':
           description: Returns a success
